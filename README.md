@@ -1,4 +1,4 @@
-
+![Pasted image 20240418232315](https://github.com/Z0SO/things/assets/109922256/28918112-82f3-4915-a2bf-c135cc2ddbad)
 ---
 # Bienvenido a mi Bóveda de Pensamientos
 
@@ -31,12 +31,14 @@ El contenido de esta bóveda está en constante desarrollo, por lo que cualquier
 
 - Después de instalar Obsidian, ve a la carpeta donde se descargó el archivo comprimido desde GitHub.
 
-![[Pasted image 20240418232430.png]]
+![Pasted image 20240418232430](https://github.com/Z0SO/things/assets/109922256/d7928e9d-1614-43fe-bffd-53def2758426)
 
 - Descomprime el archivo si aún no lo has hecho.
 - Abre Obsidian.
 - Haz clic en "Abrir carpeta de bóveda".
-![[Pasted image 20240418232315.png]]
+
+![Pasted image 20240418232315](https://github.com/Z0SO/things/assets/109922256/2994c9a3-8d13-405b-88c0-ac09d7861d29)
+
 - Navega hasta la carpeta descomprimida y selecciónala.
 - Haz clic en "Seleccionar carpeta".
 
