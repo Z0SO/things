@@ -1,4 +1,4 @@
-![Pasted image 20240418232315](https://github.com/Z0SO/things/assets/109922256/28918112-82f3-4915-a2bf-c135cc2ddbad)
+
 ---
 # Bienvenido a mi Bóveda de Pensamientos
 
