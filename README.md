@@ -12,7 +12,7 @@ Principalmente, esta bóveda fue creada para ayudar a organizar los pensamientos
 2. **Medio**
 3. **Bajo**
 
-La toma de notas sobre los problemas se organiza en diferentes archivos `.md` para facilitar el enlace entre ellos. Consiste en escribir lo que se está pensando en un momento del día y considerar si es necesario tomar nota de ello. Posteriormente, estos pensamientos se procesarán con la ayuda de inteligencia artificial para generar información más sintética que se detallará en las sesiones con Macarena.
+La toma de notas sobre los problemas se organiza en diferentes archivos `.md` para facilitar el enlace entre ellos. Consiste en escribir lo que se está pensando en un momento del día y considerar si es necesario tomar nota de ello. Posteriormente, estos pensamientos se procesarán con la ayuda de inteligencia artificial para generar información más sintética que se detallará en las sesiones con la Psicologa.
 
 El contenido de esta bóveda está en constante desarrollo, por lo que cualquier archivo puede ser editado y sufrir cambios.
 
