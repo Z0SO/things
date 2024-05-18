@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8049c4260534d841",
+        "id": "eade0c10cc5d8a17",
         "type": "tabs",
         "children": [
           {
-            "id": "0c933a6d9623a498",
+            "id": "0794f09e81c634d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pensamientos/Música y Paz Mental.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensamientos/Música y Paz Mental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensamientos/Música y Paz Mental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pensamientos/Música y Paz Mental.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0c933a6d9623a498",
+  "active": "0794f09e81c634d4",
   "lastOpenFiles": [
-    "Notas/2024-05-18.md",
+    "Pensamientos/Reflexión sobre la Relación con Selena.md",
+    "Pensamientos/Paroxetina - Primeras Observaciones.md",
     "Pensamientos/Música y Paz Mental.md",
+    "Notas/2024-05-18.md",
     "Sin título.canvas",
-    "Pensamientos/Untitled.md",
     "Notas/2024-05-12.md",
     "README.md",
     "img/Pasted image 20240418232430.png",
@@ -162,7 +155,6 @@
     "Pensamientos/Experiencia con Paroxetina.md",
     "Notas/2024-04-17.md",
     "Horarios.md",
-    "Pensamientos/Reflexión sobre la Relación con Selena.md",
     "Pensamientos/Ansiedad Social y Desinteres por una materia.md",
     "Notas/2024-03-30.md",
     "Pensamientos/Conexión intuitiva en clase.md",
