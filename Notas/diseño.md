@@ -1,0 +1,20 @@
+ahora que estoy en el colectivo puedo dejar un pequeño pensamiento sobre lo q me pasó en diseño. fui a rendir bastante confiadox el profe dejo un simulacro de las preguntas para hacer días antes de rendir de 30 min de duración. yo hice justo cuando estaba a 10 minutos de cerrar porque venía repasando por lo que tenía solo 10 minutos para hacer y tuve que apurarme. y en ese saque 6. y eso me motivo bastante y es como que dije bueno el parcial no debe ser difícil.
+que tarado que fui al pensar eso.
+lo más frustrante es que me volvió a pasar lo mismo. entre a a esperar a q me toque rendir para que no me pase lo mismo que el año pasado. estaba con mucho miedo y sentí otra vez el adormecimiento en mis manos y como que me pasaba electricidad o hormigueos.
+unas amigas me trataron de calmar y me hablaban de otra cosa para calmarme antes de rendir 
+yo había preparándome mucho para el ste examen y bueno otra vez no se dio. pero lo raro es q saque 33 de 100 una nota muy chocante para mí. y eso que arme un apunte con la bibliografía y todo y entendí un montón de cosas y aprendí mucho.
+la cuestión es que también hubo cosas positivas.
+
+
+conocí a Karin. o malena una chica que es muy dulce que me trata bien y siento mucho su compañía y despliega un aura de mucho mucha ternura y calma para mí. igual no me ilusionó con tener algo serio o ser pareja de ella porque es lesbiana y me contó eso como para que no confunda su actitud tan dulce con otra cosa.
+la verdad que es una chica que si fuera un hombre que no la conozco es increíble como su dulzura te conquista. yo creo que en un hombre como yo si alguien quiere conquistarme debería hacer eso. porque si una chica tiene esos rasgos de ternura y de ser así de compañera se lleva mí corazón. 
+bueno y por otro lado agradezco que me haya dicho eso de su orientación sexual porque así yo no me siento culpable por si también estaba malinterpretando mí dulzura porque la paroxetina que tomo me hace cariñoso con las personas y me pone afectivo.
+
+por eso agradezco que me haya dicho eso para que no generamos confusiones entre ambos lados y tanto ella como yo podamos dar afecto como abrazos y mimos jajaja o compañía y apoyo sin confundír las cosas eso es algo muy importante de su parte que aprecio mucho.
+
+estoy conforme igual pero frustrado por diseño.
+se que es un examen nomás pero no quería q me vuelva a pasar como el año pasado y volver a pasar por eso pero ya está.
+ademas aprendí mucho. y a Karin le enseñe. mientras estudiábamos juntos aprendió a
+entender git, usar github y subir cambios y demás, aprender la sintaxis de markdown, y a usar obsidian. estoy contento porque se volvió una chica más funcional y aprendió a usar cosas que utilizo yo día a día y la hace mejor. eso me pone contento. me gusta la idea que tenga ganas de aprender. cuando conozco alguien así quiero exprimir su curiosidad dándole todo lo que se para que pueda ser mejor ❤️‍🩹 
+ 
+creo que este pensamiento se fue de por varias ramas y sería mejor después procesarlas en pensamientos a parte con la ia jajaja
