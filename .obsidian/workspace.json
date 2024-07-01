@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Pensamientos/Conexión con Karin.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Pensamientos/Conexión con Karin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Pensamientos/Conexión con Karin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Pensamientos/Conexión con Karin.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "0794f09e81c634d4",
   "lastOpenFiles": [
+    "Pensamientos/Frustración en Diseño.md",
+    "Pensamientos/Conexión con Karin.md",
+    "Notas/2024-06-19.md",
+    "Notas/2024-06-30.md",
+    "Notas/diseño.md",
+    "Pensamientos/Sentimiento de Ser Reemplazado.md",
+    "README.md",
     "Horarios.md",
     "Pensamientos/Reflexión sobre la Relación con Selena.md",
     "Pensamientos/Paroxetina - Primeras Observaciones.md",
@@ -155,7 +162,6 @@
     "Notas/2024-05-18.md",
     "Sin título.canvas",
     "Notas/2024-05-12.md",
-    "README.md",
     "img/Pasted image 20240418232430.png",
     "img",
     "img/Pasted image 20240418232315.png",
@@ -174,13 +180,7 @@
     "Notas/2024-03-13.md",
     "Notas/2024-03-10.md",
     "Pensamientos/Tensión entre Amigos - Lautaro y Selena sobre Philippe.md",
-    "Pensamientos/Sin título 1.md",
-    "Pensamientos/Identidad y Aspiraciones.md",
-    "Confrontacion_con_los_Miedos.md",
-    "Plantillas/Problema.md",
-    "Desafios_en_Brasil.md",
     "Notas",
-    "Introducción.md",
     "Pensamientos",
     "Plantillas"
   ]
