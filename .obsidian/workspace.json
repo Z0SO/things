@@ -11,8 +11,12 @@
             "id": "0794f09e81c634d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "0794f09e81c634d4",
   "lastOpenFiles": [
+    "Horarios.md",
     "Pensamientos/Reflexión sobre la Relación con Selena.md",
     "Pensamientos/Paroxetina - Primeras Observaciones.md",
     "Pensamientos/Música y Paz Mental.md",
@@ -154,7 +163,6 @@
     "img/Pasted image 20240418232030.png",
     "Pensamientos/Experiencia con Paroxetina.md",
     "Notas/2024-04-17.md",
-    "Horarios.md",
     "Pensamientos/Ansiedad Social y Desinteres por una materia.md",
     "Notas/2024-03-30.md",
     "Pensamientos/Conexión intuitiva en clase.md",
