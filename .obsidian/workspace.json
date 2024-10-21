@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pensamientos/Conexión con Karin.md",
-                "mode": "preview",
+                "file": "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Frustración con la Psicología y el Sistema de Apoyo Emocional"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pensamientos/Conexión con Karin.md",
+                "file": "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Frustración con la Psicología y el Sistema de Apoyo Emocional"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pensamientos/Conexión con Karin.md",
+                "file": "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Frustración con la Psicología y el Sistema de Apoyo Emocional"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pensamientos/Conexión con Karin.md"
-              }
+                "file": "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Frustración con la Psicología y el Sistema de Apoyo Emocional"
             }
           }
         ]
@@ -138,24 +154,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "0794f09e81c634d4",
   "lastOpenFiles": [
-    "Pensamientos/Frustración en Diseño.md",
+    "Pensamientos/Ansiedad Social y Desinteres por una materia.md",
+    "Plantillas/Nueva.md",
+    "Plantillas/Lautaro - Plantilla.md",
+    "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
+    "Horarios.md",
+    "README.md",
     "Pensamientos/Conexión con Karin.md",
+    "Pensamientos/Frustración en Diseño.md",
     "Notas/2024-06-19.md",
     "Notas/2024-06-30.md",
     "Notas/diseño.md",
     "Pensamientos/Sentimiento de Ser Reemplazado.md",
-    "README.md",
-    "Horarios.md",
     "Pensamientos/Reflexión sobre la Relación con Selena.md",
     "Pensamientos/Paroxetina - Primeras Observaciones.md",
     "Pensamientos/Música y Paz Mental.md",
@@ -169,17 +189,13 @@
     "img/Pasted image 20240418232030.png",
     "Pensamientos/Experiencia con Paroxetina.md",
     "Notas/2024-04-17.md",
-    "Pensamientos/Ansiedad Social y Desinteres por una materia.md",
     "Notas/2024-03-30.md",
     "Pensamientos/Conexión intuitiva en clase.md",
     "Pensamientos/Temores Universitarios.md",
     "Pensamientos/Ruptura Emocional - La Experiencia de Lautaro con Philippe.md",
-    "Plantillas/Lautaro - Plantilla.md",
     "Notas/2024-03-18.md",
     "Notas/2024-03-22.md",
     "Notas/2024-03-13.md",
-    "Notas/2024-03-10.md",
-    "Pensamientos/Tensión entre Amigos - Lautaro y Selena sobre Philippe.md",
     "Notas",
     "Pensamientos",
     "Plantillas"
