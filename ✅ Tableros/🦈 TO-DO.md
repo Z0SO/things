@@ -3,14 +3,6 @@
 kanban-plugin: board
 
 ---
-## 🎓 FACULTAD
-
-- [ ] 🔺 TESTING ->  ver que hacer
-- [ ] 🔺Endpoint Alumnos darse de baja
-- [ ] 🔺 Endpoint darse de baja
-- [ ] 🔺 Agregar Deuda en tabla Cuotas
-- [ ] Endpoint Alumnos que deben matricula
-
 
 ## SUPERMERCADO
 
@@ -32,20 +24,32 @@ kanban-plugin: board
 	- [x] Desodorante Piso
 
 
-## GASTOS
+## HECHO
+
+
+
+## 🎓 FACULTAD
+
+- [ ] 🔺 TESTING ->  ver que hacer
+- [ ] 🔺Endpoint Alumnos darse de baja
+- [ ] 🔺 Endpoint darse de baja
+- [ ] 🔺 Agregar Deuda en tabla Cuotas
+- [ ] Endpoint Alumnos que deben matricula
 
 
 ## 🐱 MICHIS
-- [ ] Antiparasitaria a Liskov
-- [ ] Antiparasitaria a Margie
+
+- [ ] Antiparasitaria a Liskov $
+- [ ] Antiparasitaria a Margie $
 
 
 ## TO-DO
 
 - [ ] Arreglar el telefono
+- [ ] Cortarme el pelo
 
 
-## HECHO
+## GASTOS
 
 
 
@@ -57,6 +61,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,null]}
 ```
 %%
