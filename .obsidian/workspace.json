@@ -11,18 +11,13 @@
             "id": "54df87e9e2ea7fa9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
                 "file": "✅ Tableros/🦈 TO-DO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
+              "icon": "lucide-file",
               "title": "🦈 TO-DO"
             }
           }
@@ -193,11 +188,11 @@
   },
   "active": "54df87e9e2ea7fa9",
   "lastOpenFiles": [
-    "✅ Tableros/🏠 Hogar.md",
-    "✅ Tableros/🐱 Michis.md",
-    "✅ Tableros/🦈 TO-DO.md",
     "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
+    "✅ Tableros/🐱 Michis.md",
+    "✅ Tableros/🏠 Hogar.md",
     "✅ Tableros/🎓 Facultad.md",
+    "✅ Tableros/🦈 TO-DO.md",
     "Horarios.md",
     "Plantillas/Lautaro - Plantilla.md",
     "Plantillas/Nueva.md",
