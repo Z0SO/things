@@ -13,11 +13,10 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "✅ Tableros/🏠 Hogar.md",
+                "file": "✅ Tableros/🎓 Facultad.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
                     false,
                     false,
                     false
@@ -25,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "🏠 Hogar"
+              "title": "🎓 Facultad"
             }
           }
         ]
@@ -146,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horarios.md"
+                "file": "✅ Tableros/🎓 Facultad.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Horarios"
+              "title": "Esquema de 🎓 Facultad"
             }
           },
           {
@@ -177,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +194,9 @@
   },
   "active": "54df87e9e2ea7fa9",
   "lastOpenFiles": [
+    "✅ Tableros/🏠 Hogar.md",
     "✅ Tableros/🐱 Michis.md",
     "✅ Tableros/🦈 TO-DO.md",
-    "✅ Tableros/🏠 Hogar.md",
     "✅ Tableros/🎓 Facultad.md",
     "Horarios.md",
     "Plantillas/Lautaro - Plantilla.md",
