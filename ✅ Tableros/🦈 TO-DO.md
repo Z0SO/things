@@ -4,8 +4,9 @@ kanban-plugin: board
 
 ---
 
-## PENDIENTE
+## TO-DO
 
+- [ ] Arreglar el telefono
 
 
 ## HECHO
