@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## PENDIENTE
 
+- [ ] Antiparasitaria a Liskov
+- [ ] Antiparasitaria a Margie
 
 
 ## TERMINADO

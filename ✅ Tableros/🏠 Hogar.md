@@ -4,14 +4,6 @@ kanban-plugin: board
 
 ---
 
-## PENDIENTE
-
-
-
-## TERMINADO
-
-
-
 ## SUPERMERCADO
 
 - [ ] 🔼 Por comprar
@@ -30,6 +22,14 @@ kanban-plugin: board
 	- [ ] Milanesas 1KG
 	- [ ] Queso Cremoso
 	- [x] Desodorante Piso
+
+
+## GASTOS
+
+
+
+## TERMINADO
+
 
 
 ***
