@@ -13,10 +13,11 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "✅ Tableros/🎓 Facultad.md",
+                "file": "✅ Tableros/🏠 Hogar.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false
@@ -24,7 +25,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "🎓 Facultad"
+              "title": "🏠 Hogar"
             }
           }
         ]
@@ -194,14 +195,14 @@
   },
   "active": "54df87e9e2ea7fa9",
   "lastOpenFiles": [
+    "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
+    "✅ Tableros/🎓 Facultad.md",
     "✅ Tableros/🏠 Hogar.md",
     "✅ Tableros/🐱 Michis.md",
     "✅ Tableros/🦈 TO-DO.md",
-    "✅ Tableros/🎓 Facultad.md",
     "Horarios.md",
     "Plantillas/Lautaro - Plantilla.md",
     "Plantillas/Nueva.md",
-    "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
     "Plantillas/🎯 Objetivos.md",
     "✅ Tableros/💼 Proyectos/💼 Proyectos.md",
     "✅ Tableros/💼 Proyectos",
