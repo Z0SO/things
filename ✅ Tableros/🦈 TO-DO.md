@@ -48,6 +48,7 @@ kanban-plugin: board
 - [ ] Arreglar el telefono
 - [ ] Cortarme el pelo
 - [ ] Teñirme
+- [ ] Arreglar aire
 
 
 ## GASTOS
