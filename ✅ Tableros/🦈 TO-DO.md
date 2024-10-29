@@ -26,6 +26,8 @@ kanban-plugin: board
 
 ## HECHO
 
+- [ ] Arreglar aire
+- [ ] Endpoint Alumnos que abonaron matricula y los que no abonaron tmb
 
 
 ## 🎓 FACULTAD
@@ -34,13 +36,6 @@ kanban-plugin: board
 - [ ] 🔺Endpoint Alumnos darse de baja
 - [ ] 🔺 Endpoint darse de baja
 - [ ] 🔺 Agregar Deuda en tabla Cuotas
-- [ ] Endpoint Alumnos que deben matricula
-
-
-## 🐱 MICHIS
-
-- [ ] Antiparasitaria a Liskov $
-- [ ] Antiparasitaria a Margie $
 
 
 ## TO-DO
@@ -48,7 +43,13 @@ kanban-plugin: board
 - [ ] Arreglar el telefono
 - [ ] Cortarme el pelo
 - [ ] Teñirme
-- [ ] Arreglar aire
+- [ ] Averiguar un lugar de entrenamiento
+
+
+## 🐱 MICHIS
+
+- [ ] Antiparasitaria a Liskov $
+- [ ] Antiparasitaria a Margie $
 
 
 ## GASTOS
@@ -63,6 +64,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,null]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,null,null]}
 ```
 %%

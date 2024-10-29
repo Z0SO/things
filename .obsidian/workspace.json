@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "0539f756fc05418a",
+        "id": "20edacc67f090ab7",
         "type": "tabs",
+        "dimension": 46.0328317373461,
         "children": [
           {
             "id": "502fe97390d8e065",
@@ -20,12 +21,63 @@
                     false,
                     null,
                     false,
+                    null,
                     null
                   ]
                 }
               },
               "icon": "lucide-trello",
               "title": "🦈 TO-DO"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0539f756fc05418a",
+        "type": "tabs",
+        "dimension": 53.9671682626539,
+        "children": [
+          {
+            "id": "4f4405cd37cd7c5e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/home/zoso/Documents/repos/things",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true,
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": {
+                    "columns": 86,
+                    "data": "\u001b[38;5;76m❯\u001b[0m \u001b[32mgst\r\n\u001b[0mOn branch master\r\nYour branch is ahead of 'origin/master' by 2 commits.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"\\342\\234\\205 Tableros/\\360\\237\\246\\210 TO-DO.md\"\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;234m\u001b[38;5;255;48;5;234m  \u001b[38;5;242m\u001b[38;5;31m  \u001b[38;5;39;1m~\u001b[38;5;31;22m/\u001b[38;5;103mDoc\u001b[38;5;31m/\u001b[38;5;103mr\u001b[38;5;31m/\u001b[38;5;39;1mthings\u001b[38;5;31;22m \u001b[38;5;242m\u001b[38;5;178m \u001b[38;5;244mon \u001b[38;5;76m\u001b[38;5;178m \u001b[38;5;76m master ⇡2 \u001b[38;5;178m!2 \u001b[38;5;234;49m\u001b[0m \u001b[32mgac\u001b[0m \u001b[33m'tablero actualizado'\u001b[0m && \u001b[32mgit\u001b[0m push o\r\nrigin mas",
+                    "rows": 57
+                  }
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: zsh"
             }
           }
         ]
@@ -177,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +241,11 @@
       "command-palette:Abrir paleta de comandos": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "502fe97390d8e065",
+  "active": "4f4405cd37cd7c5e",
   "lastOpenFiles": [
     "✅ Tableros/🦈 TO-DO.md",
     "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
