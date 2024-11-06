@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0794f09e81c634d4",
+            "id": "fc3252d805eb3d94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Frustración con la Psicología y el Sistema de Apoyo Emocional"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -43,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -154,20 +150,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0794f09e81c634d4",
+  "active": "fc3252d805eb3d94",
   "lastOpenFiles": [
+    "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
     "Pensamientos/Ansiedad Social y Desinteres por una materia.md",
     "Plantillas/Nueva.md",
     "Plantillas/Lautaro - Plantilla.md",
-    "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
     "Horarios.md",
     "README.md",
     "Pensamientos/Conexión con Karin.md",
