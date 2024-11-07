@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "eade0c10cc5d8a17",
+        "id": "4d8cb480fd1b1cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3252d805eb3d94",
+            "id": "fba0dda2e8ce3f0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "kanban",
+              "state": {
+                "file": "✅ Tableros/🦈 TO-DO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    false,
+                    null,
+                    null
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "🦈 TO-DO"
             }
           }
         ]
@@ -73,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5110321044922
+    "width": 274.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "3c57485cb0447fe4",
@@ -155,11 +168,14 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc3252d805eb3d94",
+  "active": "fba0dda2e8ce3f0d",
   "lastOpenFiles": [
+    "✅ Tableros/🦈 TO-DO.md",
     "🧠 Ideas y Notas/Pensamientos/Tensión entre Amigos - Lautaro y Selena sobre Philippe.md",
     "🧠 Ideas y Notas/Pensamientos/Temores Universitarios.md",
     "🧠 Ideas y Notas/Pensamientos/Sentimiento de Ser Reemplazado.md",
@@ -188,7 +204,6 @@
     "🧠 Ideas y Notas/Notas",
     "🧠 Ideas y Notas",
     "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
-    "✅ Tableros/🦈 TO-DO.md",
     "✅ Tableros/💼 Proyectos",
     "✅ Tableros",
     "Sin título.canvas",

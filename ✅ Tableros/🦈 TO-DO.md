@@ -9,18 +9,19 @@ kanban-plugin: board
 - [ ] 🔼 Por comprar
 	
 	- [ ] Papel Higienico
-	- [ ] Fideos
-	- [ ] Arroz
+	- [x] Fideos
+	- [x] Arroz
+	- [x] Yerba
 	- [ ] Lavandina
-	- [ ] Aceite
-	- [ ] Dulce de leche
+	- [x] Aceite
+	- [x] Dulce de leche
 	- [ ] Pan Lactal
-	- [ ] Pepas
-	- [ ] Galletitas Saladas
+	- [x] Galletitas Dulces
+	- [x] Galletitas Saladas
 	- [ ] Te
 	- [ ] Te Ensueños
 	- [ ] Milanesas 1KG
-	- [ ] Queso Cremoso
+	- [x] Queso Cremoso
 	- [x] Desodorante Piso
 
 
@@ -32,9 +33,9 @@ kanban-plugin: board
 
 ## 🎓 FACULTAD
 
-- [ ] 🔺 TESTING ->  ver que hacer
-- [ ] 🔺Endpoint Alumnos darse de baja
 - [ ] 🔺 Endpoint darse de baja
+- [ ] 🔺 Resolver lo de ariano
+- [ ] 🔺 TESTING ->  DIVIDIR TESTING por diferentes apps
 - [ ] 🔺 Agregar Deuda en tabla Cuotas
 
 
