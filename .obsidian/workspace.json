@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20edacc67f090ab7",
+        "id": "eade0c10cc5d8a17",
         "type": "tabs",
         "children": [
           {
-            "id": "502fe97390d8e065",
+            "id": "fc3252d805eb3d94",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -25,7 +25,7 @@
               },
               "icon": "lucide-trello",
               "title": "🎯 GY-SIS"
-            }
+           }
           }
         ]
       }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Comunicación",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horarios.md",
+                "file": "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Horarios"
+              "title": "Backlinks for Frustración con la Psicología y el Sistema de Apoyo Emocional"
             }
           },
           {
@@ -136,7 +136,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -145,38 +145,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Tableros/🎓 Facultad.md"
+                "file": "Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de 🎓 Facultad"
-            }
-          },
-          {
-            "id": "23491e7124cf0602",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "719a54c4a653ae66",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Frustración con la Psicología y el Sistema de Apoyo Emocional"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,14 +165,10 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "502fe97390d8e065",
+  "active": "fc3252d805eb3d94",
   "lastOpenFiles": [
     "Plantillas/Lautaro - Plantilla.md",
     "✅ Tableros/🦈 TO-DO.md",
@@ -226,14 +202,36 @@
     "🧠 Ideas y Notas/Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
     "🧠 Ideas y Notas/Pensamientos/Conexión con Karin.md",
     "🧠 Ideas y Notas/Pensamientos/Frustración en Diseño.md",
-    "🧠 Ideas y Notas/Notas/2024-06-19.md",
+    "🧠 Ideas y Notas/Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
+    "🧠 Ideas y Notas/Pensamientos/Experiencia con Paroxetina.md",
+    "🧠 Ideas y Notas/Pensamientos/Conexión intuitiva en clase.md",
+    "🧠 Ideas y Notas/Pensamientos/Conexión con Karin.md",
+    "🧠 Ideas y Notas/Pensamientos/Ansiedad Social y Desinteres por una materia.md",
     "🧠 Ideas y Notas/Notas/2024-06-30.md",
+    "🧠 Ideas y Notas/Notas/2024-06-19.md",
+    "🧠 Ideas y Notas/Notas/2024-05-18.md",
+    "🧠 Ideas y Notas/Notas/2024-05-12.md",
+    "🧠 Ideas y Notas/Notas/2024-04-17.md",
+    "🧠 Ideas y Notas/Notas/2024-03-30.md",
+    "🧠 Ideas y Notas/Notas/2024-03-22.md",
+    "🧠 Ideas y Notas/Notas/2024-03-18.md",
+    "🧠 Ideas y Notas/Notas/2024-03-13.md",
+    "🧠 Ideas y Notas/Notas/2024-03-10.md",
+    "🧠 Ideas y Notas/Pensamientos",
+    "🧠 Ideas y Notas/Notas",
+    "🧠 Ideas y Notas",
+    "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
+    "✅ Tableros/🦈 TO-DO.md",
+    "✅ Tableros/💼 Proyectos",
+    "✅ Tableros",
     "Sin título.canvas",
     "img/Pasted image 20240418232430.png",
     "img",
     "img/Pasted image 20240418232315.png",
     "img/Pasted image 20240418232118.png",
     "img/Pasted image 20240418232030.png",
-    "🧠 Ideas y Notas/Notas"
+    "Notas",
+    "Pensamientos",
+    "Plantillas"
   ]
 }
