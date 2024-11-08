@@ -10,10 +10,12 @@ kanban-plugin: board
 
 ## EN CURSO
 
+- [ ] aplicar django filter
 
 
 ## TERMINADO
 
+- [ ] Inicializacion DRF
 
 
 
