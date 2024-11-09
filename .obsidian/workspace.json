@@ -25,7 +25,7 @@
               },
               "icon": "lucide-trello",
               "title": "🎯 GY-SIS"
-           }
+            }
           }
         ]
       }
@@ -150,6 +150,16 @@
               "icon": "lucide-list",
               "title": "Outline of Frustración con la Psicología y el Sistema de Apoyo Emocional"
             }
+          },
+          {
+            "id": "4193721739a4808f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -160,6 +170,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
