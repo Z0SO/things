@@ -19,13 +19,13 @@ kanban-plugin: board
 
 ## EN CURSO
 
-- [ ] HC mostrar todas
 - [ ] CC mostrar todas
 
 
 ## TERMINADO
 
 - [ ] aplicar django filter
+- [ ] HC mostrar todas
 - [ ] Inicializacion DRF
 
 
