@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d8cb480fd1b1cc7",
+        "id": "bfabcb5d237cdd57",
         "type": "tabs",
         "children": [
           {
-            "id": "fba0dda2e8ce3f0d",
+            "id": "7db5a8c713f75c1d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "✅ Tableros/🦈 TO-DO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    false,
-                    null,
-                    null
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "🦈 TO-DO"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -85,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5110321044922,
-    "collapsed": true
+    "width": 274.5110321044922
   },
   "right": {
     "id": "3c57485cb0447fe4",
@@ -173,7 +160,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fba0dda2e8ce3f0d",
+  "active": "7db5a8c713f75c1d",
   "lastOpenFiles": [
     "✅ Tableros/🦈 TO-DO.md",
     "🧠 Ideas y Notas/Pensamientos/Tensión entre Amigos - Lautaro y Selena sobre Philippe.md",
