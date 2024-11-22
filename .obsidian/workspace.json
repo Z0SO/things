@@ -11,20 +11,14 @@
             "id": "fc3252d805eb3d94",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "🧠 Ideas y Notas/Notas/2024-11-21.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "🎯 GY-SIS"
+              "icon": "lucide-file",
+              "title": "2024-11-21"
             }
           }
         ]
@@ -184,9 +178,10 @@
   },
   "active": "fc3252d805eb3d94",
   "lastOpenFiles": [
+    "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
+    "🧠 Ideas y Notas/Notas/2024-11-21.md",
     "Plantillas/Lautaro - Plantilla.md",
     "✅ Tableros/🦈 TO-DO.md",
-    "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
     "✅ Tableros/🐱 Michis.md",
     "✅ Tableros/🏠 Hogar.md",
     "✅ Tableros/🎓 Facultad.md",
@@ -217,35 +212,12 @@
     "🧠 Ideas y Notas/Pensamientos/Conexión con Karin.md",
     "🧠 Ideas y Notas/Pensamientos/Frustración en Diseño.md",
     "🧠 Ideas y Notas/Pensamientos/Frustración con la Psicología y el Sistema de Apoyo Emocional.md",
-    "🧠 Ideas y Notas/Pensamientos/Experiencia con Paroxetina.md",
-    "🧠 Ideas y Notas/Pensamientos/Conexión intuitiva en clase.md",
-    "🧠 Ideas y Notas/Pensamientos/Conexión con Karin.md",
-    "🧠 Ideas y Notas/Pensamientos/Ansiedad Social y Desinteres por una materia.md",
-    "🧠 Ideas y Notas/Notas/2024-06-30.md",
-    "🧠 Ideas y Notas/Notas/2024-06-19.md",
-    "🧠 Ideas y Notas/Notas/2024-05-18.md",
-    "🧠 Ideas y Notas/Notas/2024-05-12.md",
-    "🧠 Ideas y Notas/Notas/2024-04-17.md",
-    "🧠 Ideas y Notas/Notas/2024-03-30.md",
-    "🧠 Ideas y Notas/Notas/2024-03-22.md",
-    "🧠 Ideas y Notas/Notas/2024-03-18.md",
-    "🧠 Ideas y Notas/Notas/2024-03-13.md",
-    "🧠 Ideas y Notas/Notas/2024-03-10.md",
     "🧠 Ideas y Notas/Pensamientos",
     "🧠 Ideas y Notas/Notas",
-    "🧠 Ideas y Notas",
-    "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
-    "✅ Tableros/🦈 TO-DO.md",
-    "✅ Tableros/💼 Proyectos",
-    "✅ Tableros",
     "Sin título.canvas",
     "img/Pasted image 20240418232430.png",
-    "img",
     "img/Pasted image 20240418232315.png",
     "img/Pasted image 20240418232118.png",
-    "img/Pasted image 20240418232030.png",
-    "Notas",
-    "Pensamientos",
-    "Plantillas"
+    "img/Pasted image 20240418232030.png"
   ]
 }
