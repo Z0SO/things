@@ -11,10 +11,14 @@
             "id": "443144137074ba59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🧠 Ideas y Notas/Notas/2024-11-27.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "2024-11-27"
             }
           }
         ]
@@ -160,10 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443144137074ba59",
+  "active": "9940ba8d5bb706ff",
   "lastOpenFiles": [
-    "2024-11-27.md",
     "🧠 Ideas y Notas/Notas/2024-06-30.md",
+    "🧠 Ideas y Notas/Notas/2024-11-27.md",
     "🧠 Ideas y Notas/Notas/2024-03-10.md",
     "🧠 Ideas y Notas/Notas/2024-05-12.md",
     "🧠 Ideas y Notas/Notas/2024-05-18.md",
