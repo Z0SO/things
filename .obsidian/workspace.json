@@ -11,14 +11,10 @@
             "id": "92518726f6e7cba1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 Ideas y Notas/Notas/2024-12-01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-01"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -55,12 +51,12 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -178,8 +174,11 @@
   },
   "active": "9940ba8d5bb706ff",
   "lastOpenFiles": [
-    "🧠 Ideas y Notas/Notas/2024-11-21.md",
+    "🧠 Ideas y Notas/Pensamientos/Bondad en un mundo egoista es algo frustrante.md",
+    "Plantillas/Lautaro - Plantilla.md",
+    "Plantillas/Nueva.md",
     "🧠 Ideas y Notas/Notas/2024-12-01.md",
+    "🧠 Ideas y Notas/Notas/2024-11-21.md",
     "🧠 Ideas y Notas/Notas/2024-11-28.md",
     "🧠 Ideas y Notas/Notas/2024-06-30.md",
     "README.md",
@@ -187,13 +186,11 @@
     "🧠 Ideas y Notas/Notas/2024-06-19.md",
     "🧠 Ideas y Notas/Notas/2024-03-13.md",
     "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
-    "Plantillas/Lautaro - Plantilla.md",
     "✅ Tableros/🦈 TO-DO.md",
     "✅ Tableros/🐱 Michis.md",
     "✅ Tableros/🏠 Hogar.md",
     "✅ Tableros/🎓 Facultad.md",
     "Horarios.md",
-    "Plantillas/Nueva.md",
     "Plantillas/🎯 Objetivos.md",
     "✅ Tableros/💼 Proyectos/💼 Proyectos.md",
     "✅ Tableros/💼 Proyectos",
@@ -211,7 +208,6 @@
     "💼 Proyectos",
     "🧠 Ideas y Notas",
     "Plantillas/🌟 Metas del Mes de.md",
-    "templater.md",
     "🧠 Ideas y Notas/Pensamientos",
     "🧠 Ideas y Notas/Notas",
     "Sin título.canvas",
