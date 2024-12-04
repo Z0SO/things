@@ -1,10 +1,10 @@
 
 - Viernes 13 16 HS -> presentacion de la demo
 
-### Control de login
+### **Control de login**
 - especificar mejor como se controla el login.
 
-### Administrador
+### **Administrador**
 
 - aclarar cuando vamos a la vista de `configuracion` se hace referencia a todo, no solo al problema del compromiso de pago
 - Datos coherentes, que no generen confusión
@@ -14,7 +14,7 @@
 - Submenu que contenga Sysacad y Sysadmin
 
 - **inhabilitaciones** -> aclarar que son a modo informativo
-### Alumno
+### **Alumno**
 
 - datos coherentes en la demo.
 - aclarar lo de firma de compromiso de pago con cuotas vencidas
@@ -24,7 +24,10 @@
 > **Nota modal** "Nuevo compromiso de pago": arreglar fecha limite de baja (2025-12-365¡'¿'¿)
 
 
-### Cuestiones generales
+### **Cuestiones generales**
 
 - ¿Todos los coordinadores son docentes o no?
 - Llamar Tareas programadas -> `Proceso Automatico`
+- un ojito que me diga a que cuota corresponde lo pagado
+- Compromiso de año, poner una opción TODOS en seleccionar el año
+- Para la demo organizar mejor el flujo de muestra de informacion
