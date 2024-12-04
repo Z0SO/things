@@ -13,7 +13,11 @@
 - Acordeon para opciones
 - Submenu que contenga Sysacad y Sysadmin
 
+- **inhabilitaciones** -> aclarar que son a modo informativo
 ### Alumno
+
+- datos coherentes en la demo.
+- aclarar lo de firma de compromiso de pago con cuotas vencidas
 
 
 
@@ -23,4 +27,4 @@
 ### Cuestiones generales
 
 - ¿Todos los coordinadores son docentes o no?
-
+- Llamar Tareas programadas -> `Proceso Automatico`
