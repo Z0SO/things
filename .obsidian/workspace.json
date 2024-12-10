@@ -11,10 +11,14 @@
             "id": "92518726f6e7cba1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "✅ Tableros/🦈 TO-DO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🦈 TO-DO"
             }
           }
         ]
@@ -147,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           }
         ]
@@ -160,10 +164,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -172,7 +172,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9940ba8d5bb706ff",
+  "active": "92518726f6e7cba1",
   "lastOpenFiles": [
     "🧠 Ideas y Notas/Pensamientos/Bondad en un mundo egoista es algo frustrante.md",
     "Plantillas/Lautaro - Plantilla.md",
