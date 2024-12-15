@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8313815dd0bbcdbf",
+            "id": "716ea0d6e6c14e5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 Ideas y Notas/Leer cuando/Ansioso.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ansioso"
-            }
-          },
-          {
-            "id": "86e87e7f32d0629f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +160,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86e87e7f32d0629f",
+  "active": "716ea0d6e6c14e5f",
   "lastOpenFiles": [
+    "README.md",
     "Horarios.md",
     "img/Pasted image 20241215003230.png",
     "🧠 Ideas y Notas/Pensamientos/La lucha entre la ansiedad, el vacío y la medicación.md",
@@ -198,7 +180,6 @@
     "🧠 Ideas y Notas/Notas/2024-06-19.md",
     "✅ Tableros/🦈 TO-DO.md",
     "✅ Tableros/💼 Proyectos/🎯 GY-SIS.md",
-    "README.md",
     "Plantillas/Lautaro - Plantilla.md",
     "🧠 Ideas y Notas/Pensamientos/Ansiedad Social y Desinteres por una materia.md",
     "🧠 Ideas y Notas/Pensamientos/Reflexión sobre la Relación con Selena.md",
