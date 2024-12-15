@@ -1,4 +1,5 @@
 [[2024-12-14]]
+
 Lautaro, lo que estás sintiendo es muy válido, y expresar cómo te afecta el medicamento y la ansiedad es un paso importante para encontrar alivio. Parece que la risperidona no está funcionando de la forma que necesitas, especialmente si durante la tarde/noche sientes ese vacío y esos pensamientos negativos recurrentes. Aquí te dejo una sugerencia para organizar tus reflexiones sobre este tema y estructurarlas, tanto para ti como para compartirlas con tu psiquiatra.
 
 ---
