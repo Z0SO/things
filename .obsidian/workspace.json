@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-14.md",
+                "file": "🧠 Ideas y Notas/Notas/2024-12-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2024-12-14"
             }
+          },
+          {
+            "id": "86e87e7f32d0629f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 Ideas y Notas/Pensamientos/La lucha entre la ansiedad, el vacío y la medicación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La lucha entre la ansiedad, el vacío y la medicación"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,9 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8313815dd0bbcdbf",
+  "active": "9940ba8d5bb706ff",
   "lastOpenFiles": [
-    "2024-12-14.md",
+    "🧠 Ideas y Notas/Notas/2024-12-14.md",
+    "🧠 Ideas y Notas/Pensamientos/La lucha entre la ansiedad, el vacío y la medicación.md",
     "Plantillas/Nueva.md",
     "Sin título.md",
     "🧠 Ideas y Notas/Notas/2024-11-27.md",
@@ -191,7 +207,6 @@
     "Plantillas/🎯 Objetivos.md",
     "🧠 Ideas y Notas/Pensamientos/Conexión intuitiva en clase.md",
     "🧠 Ideas y Notas/Pensamientos/Tensión entre Amigos - Lautaro y Selena sobre Philippe.md",
-    "🧠 Ideas y Notas/Pensamientos/Paroxetina - Primeras Observaciones.md",
     "🧠 Ideas y Notas/Pensamientos",
     "🧠 Ideas y Notas/Notas",
     "🧠 Ideas y Notas",
